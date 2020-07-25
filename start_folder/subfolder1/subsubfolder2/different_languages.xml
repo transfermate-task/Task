@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>你好，世界</author>
+        <name>你好，世界</name>
+    </book>
+    <book>
+        <author>korean(울)</author>
+        <name>korean(울)</name>
+    </book>
+    <book>
+        <author>japanese(形)</author>
+        <name>japanese(形)</name>
+    </book>
+    <book>
+        <author>chinese (龙)</author>
+        <name>chinese (龙)</name>
+    </book>
+    <book>
+        <author>russian(ЯД)</author>
+        <name>russian(ЯД)</name>
+    </book>
+</books>

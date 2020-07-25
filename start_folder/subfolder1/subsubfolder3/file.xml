@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <author>Иван Иванов</author>
+        <name>Имя книги на руском</name>
+    </book>
+    <book>
+        <author>Ivan Ivanov</author>
+        <name>Start of spirit</name>
+    </book>
+</books>
